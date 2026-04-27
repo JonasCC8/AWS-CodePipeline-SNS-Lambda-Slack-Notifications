@@ -15,13 +15,9 @@ Región utilizada: **us-west-2 (Oregon)**
 
 ## 🏗️ Arquitectura
 
-CodePipeline  
-↓  
-SNS Topic  
-↓  
-Lambda Function  
-↓  
-Slack Webhook  
+<p align="center">
+  <img src="architecturenotslack.png" width="900"/>
+</p>
 
 ---
 
